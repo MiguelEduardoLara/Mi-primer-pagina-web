@@ -1,0 +1,162 @@
+body{
+    
+
+    font-family: 'Poppins', sans-serif;
+    max-width: 1000px;
+    margin: 280px;%
+    
+    
+}
+.nav{
+    background-color: rgb(206, 198, 198);
+    margin-left: 280px;
+}
+
+
+nav ul li{
+    list-style-type: none;
+background-color: rgb(252, 247, 247)
+display: inline-block;
+transition: 0,8s all;
+padding: 18px 20px;
+
+}
+nav ul li:hover{
+background-color: rgba(245, 240, 240, 0.863);
+
+}
+footer{
+background-color: lightslategray;
+
+}
+
+nav ul{
+    padding-top: 10px;
+    padding-inline-start: 20%;
+    display: inline-flex;
+
+}
+
+.img-logo{
+    width: px;
+    padding: 10px;
+    margin-left: 40px;
+    margin-top: 10%;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+
+}
+footer a{
+    text-decoration: none;
+    color: blue;
+}
+
+img{
+    max-width: 100%;
+
+}
+
+iframe{
+    margin-left: 80px;
+
+}
+
+h2,h4,figure,ul{
+margin: 4%;
+
+}
+
+.section1{
+    background-color: rgb(243, 172, 66);
+    margin-left: 280px;
+
+
+}
+
+.div{
+    margin:0%;
+    width: 100%;
+}
+
+.section2,figure{
+background-color: rgb(255, 255, 255);
+margin-left: 480px;
+
+}
+
+.article1{
+    background-color: rgb(243, 193, 118);
+    margin-left: 280px;
+
+
+
+}
+.section3{
+    background-color: hsl(0, 0%, 100%);
+    margin-left: 280px;
+    
+}
+
+.footer1{
+    margin-left: 280px;
+    display: inline-flex
+}
+.figure3{
+    margin-left: 150px;
+}
+
+.div2{
+    margin: 50px;
+    display: inline-block;
+}
+
+.div3{
+    margin: 50px;
+}
+/* Css frutos Pag Frutos Secos */
+
+.body1{
+    
+
+    font-family: 'Poppins', sans-serif;
+    max-width: 900px;
+    margin: 1px;
+    background-color: rgb(253, 253, 253);
+
+}
+
+.nav2{
+    margin-left: 280px;
+
+}
+
+.section4{
+    margin-left: 50px;
+    
+
+}
+
+.img1{
+    max-width: 100%;
+    margin-left: 140px;
+
+}
+
+.img2{
+    max-width: 100%;
+    margin-left: 100px;
+
+}
+
+.footer2{
+margin-top: 10px;
+
+}
+.iframe2{
+    margin-top: 0px;
+    margin-left: 50%;
+    margin-block-start: -25%;
+}
